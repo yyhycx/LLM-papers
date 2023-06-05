@@ -15,6 +15,7 @@ A repo lists papers about LLM.
 
 ---
 - Instruction-Tuning
+
 	- [2023/05/25] *The False Promise of Imitating Proprietary LLMs* | [[paper]](https://arxiv.org/abs/2305.15717) | [code]
 	
   - [2023/05/18] *LIMA: Less Is More for Alignment* | [[paper]](https://arxiv.org/abs/2305.11206) | [code]
@@ -24,7 +25,9 @@ A repo lists papers about LLM.
 
 ---
 - Alignment
-	- [2023/05/17] *SLiC-HF: Sequence Likelihood Calibration with Human Feedback* | [[paper]](https://arxiv.org/abs/2305.10425) | [code]
+
+  - [2023/06/02] *Fine-Grained Human Feedback Gives Better Rewards for Language Model Training* | [[paper]](https://arxiv.org/abs/2306.01693) | [[code]](https://finegrainedrlhf.github.io/) 
+  - [2023/05/17] *SLiC-HF: Sequence Likelihood Calibration with Human Feedback* | [[paper]](https://arxiv.org/abs/2305.10425) | [code]
 	
   - [2023/04/11] *RRHF: Rank Responses to Align Language Models with Human Feedback without tears* | [[paper]](https://arxiv.org/abs/2304.05302) | [[code]](https://github.com/GanjinZero/RRHF)
   
